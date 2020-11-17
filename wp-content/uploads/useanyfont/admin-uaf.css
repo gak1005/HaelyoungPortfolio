@@ -1,9 +1,0 @@
-				@font-face {
-					font-family: 'cera-gr';
-					src: url('http://localhost:8888/wp-content/uploads/useanyfont/200510065007cera-gr.woff2') format('woff2'),
-						url('http://localhost:8888/wp-content/uploads/useanyfont/200510065007cera-gr.woff') format('woff');
-				}
-
-				.et_gf_cera-gr{background:none !important;font-family:cera-gr;text-indent:0 !important;font-size:25px;}
-
-		
